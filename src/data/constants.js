@@ -269,7 +269,7 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Power programmer (Java Full Stack Developer)",
     company: "infosys Limited",
-    date: "June 2023 - Present",
+    date: "July 2023 - Present",
     desc: "Working on the Burlington Northern Santa Fe (BNSF Railways)",
     skills: [
       "Java",
@@ -289,7 +289,7 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Specialist programmer (Java Full Stack Developer)",
     company: "Infosys Limited",
-    date: "Aug 2023 - July 2023",
+    date: "Aug 2022 - July 2023",
     desc: "Worked on Royal Bank Of Canand (RBC Bank)",
     skills: [
       "Java",
@@ -311,7 +311,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMFfnN6owFBveI0QvzutR-6AuTLCvzCgVEo__G25fIA&s",
     role: "Java backend Developer",
     company: "Suven consultants and private limited",
-    date: "June 2023 - July 2023",
+    date: "June 2022 - Dec 2022",
     desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the internship.",
     skills: [
       "Java",
@@ -329,7 +329,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyqBxDE8sNkJsU3SfmU0woeP3bHGoL37wBuEkRV_dqg&s",
     role: "Java Backend Devloper",
     company: "AlgorithmXlr8.org",
-    date: "June 2023 - July 2023",
+    date: "June 2023 - Mar 2024",
     desc: "Built an Coding Platform full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
     skills: [
       "NextJs",
@@ -354,7 +354,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADlmdpwvwazAsMWIgPTKhn7LlgfkmvDr03KvetGuK2Q&s",
     role: "Mentor",
     company: "Topmate.io",
-    date: "Aug 2023 - July 2023",
+    date: "Aug 2023 - Present",
     desc: "Top 1% At this Platfome, Guided over 90+ individuals in DSA, coding, and development, with numbers continuously increasing",
     skills: [
       "Career Guidance",
