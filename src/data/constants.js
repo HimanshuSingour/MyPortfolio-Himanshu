@@ -5,12 +5,12 @@ export const Bio = {
     "Backend Developer",
     "Frontend Developer",
     "Devops Engineer",
-    "Programmer",
+    "Software Engineer",
   ],
   description:
-    "I'm a full stack developer with five years of handson experience, including two years in industrial settings. I know a lot about different technologies like frontend, backend, DevOps, cloud, and databases. What sets me apart is my ability to quickly learn new tech. Plus, I'm great at solving problems. Let's build something awesome together!",
+    "I’m a Java full-stack developer who can build industrial-level apps solo (with a little patience). I juggle backend, frontend, databases, system design, and DevOps like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
   github: "https://github.com/HimanshuSingour",
-  resume: "https://drive.google.com/file/d/1JVSoxJWluEbgMglFXWBW8-jNn6yCkOmg/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1dUzZdzKw4qAHAcOin3QmS0txlPkm_FsB/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/himanshu-singour-95627b222/",
   twitter: "https://twitter.com/Himmu_S03",
   insta: "https://www.instagram.com/endless_success___/",
@@ -269,7 +269,7 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Power programmer (Java Full Stack Developer)",
     company: "infosys Limited",
-    date: "July 2023 - Present",
+    date: "April 2023 - Present",
     desc: "Working on the Burlington Northern Santa Fe (BNSF Railways)",
     skills: [
       "Java",
@@ -289,8 +289,8 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Specialist programmer (Java Full Stack Developer)",
     company: "Infosys Limited",
-    date: "Aug 2022 - July 2023",
-    desc: "Worked on Royal Bank Of Canand (RBC Bank)",
+    date: "July 2022 - March 2023",
+    desc: "Worked on Royal Bank Of Canada (RBC Bank)",
     skills: [
       "Java",
       "Spring boot",
@@ -310,8 +310,8 @@ export const experiences = [
     id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMFfnN6owFBveI0QvzutR-6AuTLCvzCgVEo__G25fIA&s",
     role: "Java backend Developer",
-    company: "Suven consultants and private limited",
-    date: "June 2022 - Dec 2022",
+    company: "LetsConnect.In.au",
+    date: "Jan 2022 - June 2022",
     desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the internship.",
     skills: [
       "Java",
@@ -325,37 +325,12 @@ export const experiences = [
   },
 
   {
-    id: 3,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyqBxDE8sNkJsU3SfmU0woeP3bHGoL37wBuEkRV_dqg&s",
-    role: "Java Backend Devloper",
-    company: "AlgorithmXlr8.org",
-    date: "June 2023 - Mar 2024",
-    desc: "Built an Coding Platform full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-    skills: [
-      "NextJs",
-      "Redux",
-      "SadCn",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
-      "Spring Framework",
-      "Spring Microservices",
-      "kafka",
-      "Mysql"
-    ],
-  },
-
-  {
     id: 4,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADlmdpwvwazAsMWIgPTKhn7LlgfkmvDr03KvetGuK2Q&s",
     role: "Mentor",
     company: "Topmate.io",
     date: "Aug 2023 - Present",
-    desc: "Top 1% At this Platfome, Guided over 90+ individuals in DSA, coding, and development, with numbers continuously increasing",
+    desc: "Top 1% At this Platfome, Guided over 300+ individuals in DSA, coding, and development, with numbers continuously increasing",
     skills: [
       "Career Guidance",
       "DSA Start From Scratch",
@@ -375,7 +350,7 @@ export const education = [
     id: 0,
     img: "https://media.licdn.com/dms/image/C560BAQGVF2qj__3qtg/company-logo_400_400/0/1646318126580?e=2147483647&v=beta&t=m_pWngulU4pmV7TEjPVS2V6BCiKactu8PRf0FGQoWwk",
     school: "Oriental College Of technology Bhopal",
-    date: "May 2019 - May 2022",
+    date: "May 2018 - May 2022",
     desc: "I have done my graducation in Bachelor's degree in Electronic and Communication Engineering at Oriental College Of technology, Bhopal. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of Technology - BTech, Electronic And Communication Engineering",
   },
@@ -556,6 +531,7 @@ export const projects = [
     github: "https://github.com/HimanshuSingour/Google-Pay-Payment-Application-",
 
   }
+  
 
 ];
 
