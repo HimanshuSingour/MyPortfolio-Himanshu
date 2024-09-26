@@ -287,7 +287,7 @@ export const experiences = [
   {
     id: 1,
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
-    role: "Specialist programmer (Java Full Stack Developer)",
+    role: "Specialist programmer (Java Back-End Developer)",
     company: "Infosys Limited",
     date: "July 2022 - March 2023",
     desc: "Worked on Royal Bank Of Canada (RBC Bank)",
@@ -308,11 +308,11 @@ export const experiences = [
 
   {
     id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMFfnN6owFBveI0QvzutR-6AuTLCvzCgVEo__G25fIA&s",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQGc7lKmF0Lpeg/company-logo_200_200/company-logo_200_200/0/1714811764518/letsconnectindia_logo?e=2147483647&v=beta&t=jX6GuoD4IFHav838QW7HjI4r8OBFv9aDFJLLoPQw_8k",
     role: "Java backend Developer",
-    company: "LetsConnect.In.au",
-    date: "Jan 2022 - June 2022",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the internship.",
+    company: "LetsConnectIndia.com (6 Months Internship)",
+    date: "July 2021 - Dec 2021",
+    desc: "A results-driven Java Backend Developer with hands-on experience in building scalable, high-performance applications using Spring Boot and Hibernate. Proficient in optimizing APIs and microservices, enhancing system efficiency by up to 30%. Skilled in collaborating with cross-functional teams to deliver reliable solutions and resolve critical backend issues swiftly.",
     skills: [
       "Java",
       "Spring Framework",
@@ -321,6 +321,25 @@ export const experiences = [
       "Apache Camel",
       "Angular Js",
       "Junit",
+    ],
+  },
+
+  {
+    id: 3,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMFfnN6owFBveI0QvzutR-6AuTLCvzCgVEo__G25fIA&s",
+    role: "Java backend Developer",
+    company: "SUVEN CONSULTANTS AND TECHNOLOGY (6 Months Internship)",
+    date: "Jan 2022 - June 2022",
+    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the internship.",
+    skills: [
+      "Java",
+      "Spring Framework",
+      "Microservice",
+      "Docker",
+      "Apache Camel",
+      "React Js",
+      "Junit",
+      "Apache Kafka & Camel"
     ],
   },
 
@@ -337,6 +356,7 @@ export const experiences = [
       "Development Start From Scratch",
       "Linkedin Review",
       "Resume Review etc",
+      "Many More"
 
     ],
   
@@ -531,6 +551,7 @@ export const projects = [
     github: "https://github.com/HimanshuSingour/Google-Pay-Payment-Application-",
 
   }
+  
   
 
 ];
