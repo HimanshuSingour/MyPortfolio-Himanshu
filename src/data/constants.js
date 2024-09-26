@@ -1,16 +1,14 @@
 export const Bio = {
   name: "Himanshu Singour",
   roles: [
-    "Full Stack Developer",
     "Backend Developer",
     "Frontend Developer",
     "Devops Engineer",
-    "Software Engineer",
   ],
   description:
     "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design, and DevOps like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
   github: "https://github.com/HimanshuSingour",
-  resume: "https://drive.google.com/file/d/1dUzZdzKw4qAHAcOin3QmS0txlPkm_FsB/view?usp=share_link",
+  resume: "https://drive.google.com/file/d/19CUAFEIbsW-uN-JM8dT3NK3WkfOK0bjo/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/himanshu-singour-95627b222/",
   twitter: "https://twitter.com/Himmu_S03",
   insta: "https://www.instagram.com/endless_success___/",
