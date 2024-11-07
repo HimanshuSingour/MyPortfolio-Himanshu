@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design (HLD/LLD), DevOps, and problem-solving like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
   github: "https://github.com/HimanshuSingour",
-  resume: "https://drive.google.com/file/d/1dkarqsXXywtMIzauHq_rM69KrFnLE03R/view?usp=share_link",
+  resume: "https://drive.google.com/file/d/1Er9KntyG2SxFBQqozjNWd7MB_Hib91RT/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/himanshu-singour-95627b222/",
   twitter: "https://twitter.com/Himmu_S03",
   insta: "https://www.instagram.com/endless_success___/",
