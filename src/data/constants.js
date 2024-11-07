@@ -6,9 +6,9 @@ export const Bio = {
     "Devops Engineer",
   ],
   description:
-    "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design, and DevOps like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
+    "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design (HLD/LLD), DevOps, and problem-solving like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
   github: "https://github.com/HimanshuSingour",
-  resume: "https://drive.google.com/file/d/1mAgpS4vJNDjbslKRxOkx-CL4KWo9emIj/view?usp=share_link",
+  resume: "https://drive.google.com/file/d/1dkarqsXXywtMIzauHq_rM69KrFnLE03R/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/himanshu-singour-95627b222/",
   twitter: "https://twitter.com/Himmu_S03",
   insta: "https://www.instagram.com/endless_success___/",
@@ -47,16 +47,6 @@ export const skills = [
         name: "Hibernate",
         image:
           "https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png",
-      },
-
-      {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
-      },
-
-      {
-        name: "Express Js",
-        image: "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png",
       },
 
       {
@@ -185,7 +175,11 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png",
       },
       {
-        name: "AWS",
+        name: "Jfrog",
+        image: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/jfrog.png",
+      },
+      {
+        name: "AWS Cloud",
         image:
           "https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png",
       },
@@ -267,7 +261,7 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Power programmer (Java Full Stack Developer)",
     company: "infosys Limited",
-    date: "April 2023 - Present",
+    date: "Aug 2023 - Present",
     desc: "Working on the Burlington Northern Santa Fe (BNSF Railways)",
     skills: [
       "Java",
@@ -276,9 +270,10 @@ export const experiences = [
       "Docker",
       "Apache Camel",
       "Apache Kafka",
-      "Angular Js",
       "CI/CD Jenkins",
       "Junit",
+      "JFrog",
+      "AWS",
       "Dbeaver"
     ],
   },
@@ -287,16 +282,16 @@ export const experiences = [
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Specialist programmer (Java Back-End Developer)",
     company: "Infosys Limited",
-    date: "July 2022 - March 2023",
+    date: "July 2022 - Aug 2023",
     desc: "Worked on Royal Bank Of Canada (RBC Bank)",
     skills: [
       "Java",
       "Spring boot",
       "Microservice",
       "Docker",
+      "AWS",
       "Apache Camel",
       "Apache Kafka",
-      "Angular Js",
       "CI/CD Jenkins",
       "Junit",
 
@@ -304,31 +299,14 @@ export const experiences = [
   
   },
 
-  {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQGc7lKmF0Lpeg/company-logo_200_200/company-logo_200_200/0/1714811764518/letsconnectindia_logo?e=2147483647&v=beta&t=jX6GuoD4IFHav838QW7HjI4r8OBFv9aDFJLLoPQw_8k",
-    role: "Java backend Developer",
-    company: "LetsConnectIndia.com (6 Months Internship)",
-    date: "July 2021 - Dec 2021",
-    desc: "A results-driven Java Backend Developer with hands-on experience in building scalable, high-performance applications using Spring Boot and Hibernate. Proficient in optimizing APIs and microservices, enhancing system efficiency by up to 30%. Skilled in collaborating with cross-functional teams to deliver reliable solutions and resolve critical backend issues swiftly.",
-    skills: [
-      "Java",
-      "Spring Framework",
-      "Microservice",
-      "Docker",
-      "Apache Camel",
-      "Angular Js",
-      "Junit",
-    ],
-  },
 
   {
     id: 3,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMFfnN6owFBveI0QvzutR-6AuTLCvzCgVEo__G25fIA&s",
-    role: "Java backend Developer",
-    company: "SUVEN CONSULTANTS AND TECHNOLOGY (6 Months Internship)",
-    date: "Jan 2022 - June 2022",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the internship.",
+    role: "Software Developer Engineer - 1 (Java Full Stack Developer)",
+    company: "SUVEN CONSULTANTS(6 Months Internship + 6 Months Extended)",
+    date: "June 2021 - July 2022",
+    desc: "Developed and optimized a Java full-stack E-learning platform, improving system performance, automating deployments, and enhancing UI responsiveness with React.js, Redux, and CI/CD pipelines.",
     skills: [
       "Java",
       "Spring Framework",
@@ -339,25 +317,6 @@ export const experiences = [
       "Junit",
       "Apache Kafka & Camel"
     ],
-  },
-
-  {
-    id: 4,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADlmdpwvwazAsMWIgPTKhn7LlgfkmvDr03KvetGuK2Q&s",
-    role: "Mentor",
-    company: "Topmate.io",
-    date: "Aug 2023 - Present",
-    desc: "Top 1% At this Platfome, Guided over 300+ individuals in DSA, coding, and development, with numbers continuously increasing",
-    skills: [
-      "Career Guidance",
-      "DSA Start From Scratch",
-      "Development Start From Scratch",
-      "Linkedin Review",
-      "Resume Review etc",
-      "Many More"
-
-    ],
-  
   },
   
 ];
@@ -403,7 +362,7 @@ export const projects = [
     description:
       "implemented all the functionalities that a typical bank application has in the backend.",
     image:
-      "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/10/16/Photos/Incoming/IndusInd-kTRG--621x414@LiveMint.jpg",
+      "https://i.ytimg.com/vi/jf6kd4bUNGY/maxresdefault.jpg",
     tags: [
       "Spring Boot",
       "Spring MVC",
@@ -459,7 +418,7 @@ export const projects = [
     description:
       "Made a railway app like India's own, with all the features you'd expect. Book tickets, check schedules, and travel hassle-free",
     image:
-      "https://user-images.githubusercontent.com/85048574/164957242-6b476520-dbff-4419-a825-e054e6caf26c.png",
+      "https://static.toiimg.com/thumb/msid-80042755,width-1280,height-720,resizemode-4/80042755.jpg",
       tags: [
         "Spring Framework",
         "Micorservice Arcticture",
@@ -519,7 +478,7 @@ export const projects = [
     description:
       " Meet our Hotel Management System: It handles everything from bookings to checkouts. Easily manage reservations, room assignments, and guest services, making hotel operations smooth as silk.",
     image:
-      "https://i.ytimg.com/vi/FCCVSvrJLmo/maxresdefault.jpg",
+      "https://uizard.io/static/4051c716723dd5a46d8490f7c5c0ad51/a8e47/16cecc90d113370bb651297d7d86e4b24906af40-1440x835.png",
       tags: [
         "Spring Framework",
         "Micorservice Arcticture",
@@ -548,7 +507,78 @@ export const projects = [
       ],
     github: "https://github.com/HimanshuSingour/Google-Pay-Payment-Application-",
 
+  },
+  {
+    id: 7,
+    title: "E-Commerce Platform",
+    date: "Jul 2022",
+    description: "A robust e-commerce platform built with Java full-stack, React.js, and DevOps practices, featuring seamless product browsing, order management, and payment processing. The platform integrates microservices with Apache Kafka for real-time data flow and utilizes CI/CD pipelines for efficient deployment and scaling.",
+    image: "https://files.oaiusercontent.com/file-MFqovcEbuGD1Q80xTtDmQHey?se=2024-11-07T09%3A50%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D69ea8669-3b51-49a4-abec-0c13fcaa7602.webp&sig=nHFQJZMVrifUFlnodBFaTcPa57/k4Ax%2BkBmH9wqnBlg%3D",
+    tags: [
+      "Java Full-Stack",
+      "React.js",
+      "DevOps",
+      "Microservices",
+      "Apache Kafka",
+      "CI/CD"
+    ],
+    github: "https://github.com/HimanshuSingour/E-Commerce-Application-Spring-React-"
+  },
+  {
+    id: 8,
+    title: "Recruitment Platform",
+    date: "Aug 2023",
+    description: "A comprehensive recruitment platform built using Java full-stack, React.js, and DevOps practices. The platform streamlines the hiring process by enabling job listings, applicant tracking, interview scheduling, and real-time notifications, while ensuring scalability and performance with microservices and automated CI/CD pipelines.",
+    image: "https://emploi-digital.fr/wp-content/uploads/2023/04/Capture-decran-2023-04-02-a-00.34.59-1024x427.jpg",
+    tags: [
+      "Java Full-Stack",
+      "React.js",
+      "DevOps",
+      "Microservices",
+      "CI/CD",
+      "Spring Boot"
+    ],
+    github: "https://github.com/HimanshuSingour/Recruitment-Platform-Spring-Microservices-Kafka-Cloud-Etc..-"
+  },
+  {
+    id: 8,
+    title: "Piggy Metrics Microservices",
+    date: "Aug 2023",
+    description: "A cloud-based microservices architecture for tracking and analyzing financial metrics, built using Spring Framework and deployed on AWS. The system leverages multiple microservices to handle user data, transaction processing, and metrics analytics, ensuring scalability and high availability. Integrated with CI/CD pipelines for automated testing and deployment.",
+    image: "https://www.techfunnel.com/wp-content/uploads/2024/09/Cash-Flow-for-Small-Businesses.jpg",
+    tags: [
+      "Spring Framework",
+      "Microservices",
+      "Cloud",
+      "AWS",
+      "CI/CD",
+      "Metrics Analytics"
+    ],
+    github: "https://github.com/HimanshuSingour/Piggy-Metrics-Microservices-Cloud-Spring-Frame-"
+  },
+
+  {
+    id: 9,
+    title: "BookMyShow.com",
+    date: "Sep 2023",
+    description: "A full-stack clone of the BookMyShow platform, built with Java Spring Boot for the backend and React.js for the frontend. The application includes features like movie booking, seat selection, user authentication, and payment processing. Deployed with Docker and integrated CI/CD pipelines for seamless deployment and scaling on AWS.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzvYTA4IMLa2OlpVvOU5a_NiM7CsQRFgnAuW7gWClqB_Pk9h_U2eFdofivWHiiOHnFls&usqp=CAU",
+    tags: [
+      "Java Spring Fremwork",
+      "Microservices",
+      "React.js",
+      "Full-Stack",
+      "CI/CD",
+      "AWS",
+      "Docker",
+      "Payment Integration"
+    ],
+    github: "https://github.com/HimanshuSingour/BookMyShow-WebApp"
   }
+  
+  
+  
+  
   
   
 
