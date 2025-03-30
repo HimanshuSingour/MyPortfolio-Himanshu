@@ -2,13 +2,12 @@ export const Bio = {
   name: "Himanshu Singour",
   roles: [
     "Backend Developer",
-    "Frontend Developer",
     "Devops Engineer",
   ],
   description:
     "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design (HLD/LLD), DevOps, and problem-solving like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
   github: "https://github.com/HimanshuSingour",
-  resume: "https://drive.google.com/file/d/1Er9KntyG2SxFBQqozjNWd7MB_Hib91RT/view?usp=share_link",
+  resume: "https://drive.google.com/file/d/1VtTtjWZOFu0AsHDaILPNcDWgg_nAzRxY/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/himanshu-singour-95627b222/",
   twitter: "https://twitter.com/Himmu_S03",
   insta: "https://www.instagram.com/endless_success___/",
@@ -256,8 +255,30 @@ export const skills = [
 
 export const experiences = [
 
-    {
+  {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQE16s2f1MXbCQ/company-logo_100_100/company-logo_100_100/0/1721887125924/rahi_platform_technologies_logo?e=2147483647&v=beta&t=qev3svMH3mVcTOKdj50eyDXyt9oVq8jmJfuIv6pu6J0",
+    role: "SDE-2 (Java Full Stack Developer)",
+    company: "Rahi Platform",
+    date: "Jan 2025 - Present",
+    desc: "Currently leading the development of a cloud-native FinTech SaaS product, transforming financial services with cutting-edge technology. ",
+    skills: [
+      "Java",
+      "Spring boot",
+      "Microservice",
+      "Docker",
+      "Apache Camel",
+      "Apache Kafka",
+      "CI/CD Jenkins",
+      "Junit",
+      "JFrog",
+      "AWS",
+      "Dbeaver"
+    ],
+  },
+
+    {
+    id: 1,
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Power programmer (Java Full Stack Developer)",
     company: "infosys Limited",
@@ -278,7 +299,7 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
+    id: 2,
     img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "Specialist programmer (Java Back-End Developer)",
     company: "Infosys Limited",
