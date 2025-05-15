@@ -5,9 +5,9 @@ export const Bio = {
     "Devops Engineer",
   ],
   description:
-    "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design (HLD/LLD), DevOps, and problem-solving like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
+    "I'm a Software Development Engineer who genuinely enjoys solving complex problems and thinking through systems logically. I’ve always been drawn to distributed systems and love playing around with HLD and LLD it’s the part of the job I find most exciting. I work across the full stack but naturally lean toward backend design, building clean architectures, and making sure things run fast and smooth.",
   github: "https://github.com/HimanshuSingour",
-  resume: "https://drive.google.com/file/d/18zdbzQ99I_CuFtH5W_1-hFhZoxFPNH3R/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1wES7SWqS-SqMvaqsa3EgOPURbWclMTYs/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/himanshu-singour-95627b222/",
   twitter: "https://twitter.com/Himmu_S03",
   insta: "https://www.instagram.com/endless_success___/",
